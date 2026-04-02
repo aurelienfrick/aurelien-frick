@@ -1,0 +1,1 @@
+.news-row {  display: flex;  gap: 10px;  margin-bottom: 10px;  font-size: 0.85em;}.news-date {  width: 70px;  font-weight: 600;  color: #555;  flex-shrink: 0;}.news-content {  flex: 1;}.news-text {  margin-bottom: 6px;}.news-img {  max-width: 260px;  border-radius: 6px;}
