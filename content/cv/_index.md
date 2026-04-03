@@ -5,6 +5,9 @@ hidemeta: true
 
 <div style="font-size:0.85em">
 
+<p style="margin-bottom:20px;">
+My full CV is available here <a href="/CV_Frick.pdf" target="_blank"><strong>📄</strong></a>
+</p>
 
 
 ## Academic Employment
