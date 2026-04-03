@@ -48,7 +48,7 @@ The effects of an unfamiliar experimenter on proactive and reactive control in c
 <a href="https://doi.org/10.1111/cdep.12533" target="_blank"
 style="text-decoration:none; border:none; color:#4da3ff;">
 You are here! Rethinking children’s executive function in the presence of others
-</a>. <i>Child Development Perspectives, 19</i>(2), 116-125.<br>
+</a>. <i>Child Development Perspectives, 19</i>(2), 116-125.<br> (Top 10 most-cited article in 2024, <i>Child Development Perspectives</i>)
 </li>
 
 </p>
