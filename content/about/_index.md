@@ -63,7 +63,7 @@ Combining quantitative and qualitative approaches allows me to examine EF both a
     <img src="research1.JPG"
          style="height:260px; width:100%; object-fit:cover; border-radius:10px;">
     <figcaption style="font-size:0.85em; text-align:center; margin-top:6px;">
-      A 5-years-old child taking part in a cognitive research at school - 2019 (©Aurélien Frick)
+      A 5-year-old child taking part in a cognitive research at school - 2019 (©Aurélien Frick)
     </figcaption>
   </figure>
 
