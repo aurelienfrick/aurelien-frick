@@ -6,7 +6,8 @@ hidemeta: true
 <div style="font-size:0.85em">
 
 <p style="margin-bottom:20px;">
-My full CV is available here <a href="/CV_Aurelien_Frick.pdf" target="_blank"><strong>📄</strong></a>
+My full CV is available here <a href="static/
+  CV_Aurelien_Frick.pdf" target="_blank"><strong>📄</strong></a>
 </p>
 
 
