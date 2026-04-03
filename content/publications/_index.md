@@ -6,7 +6,7 @@ hidemeta: true
 
 <div style="font-size:0.9em; color:black; margin-bottom:10px;">
 * denotes equal contribution<br>
-All papers are available upon request.
+Many of these papers are open access. If you experience access limitations, I’m happy to provide copies upon request.
 </div>
 
 <ol reversed style="font-size:0.85em; line-height:1.7;">
