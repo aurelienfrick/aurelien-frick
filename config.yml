@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Aurélien Frick
           subtitle: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow at the University of St Andrews."
-          imageUrl: "front_image.jpg"
+          imageUrl: "Photo_Website.jpg"
           imageWidth: 120
           imageHeight: 150
           buttons:
