@@ -75,7 +75,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: href="/files/CV_Aurelien_Frick.pdf"
+          url: href="/CV_Aurelien_Frick.pdf"
         - name: Email
           url: mailto:asaf1@st-andrews.ac.uk
         - name: Google Scholar
