@@ -145,12 +145,12 @@ Chimpanzees’ working memory is not affected by the presence and activity of zo
 <strong>Frick, A.</strong> (2024).
 <a href="https://doi.org/10.1111/cdep.12533" target="_blank" style="text-decoration:none; color:#4da3ff;">
 You are here! Rethinking children’s executive function in the presence of others
-</a>. <i>Child Development Perspectives, 19</i>(2), 116–125.<br>
+</a>. <i>Child Development Perspectives, 19</i>(2), 116–125.<br> (Top 10 most-cited article in 2024, <i>Child Development Perspectives</i>)
 
 <strong>Frick, A.</strong>, & Chevalier, N. (2023).
 <a href="https://doi.org/10.1080/15248372.2022.2160720" target="_blank" style="text-decoration:none; color:#4da3ff;">
 A first theoretical model of self-directed cognitive control development
-</a>. <i>Journal of Cognition and Development, 24</i>(2), 191–204.<br>
+</a>. <i>Journal of Cognition and Development, 24</i>(2), 191–204.<br> 
 
 <strong>Frick, A.</strong>, Clément, F., & Gruber, T. (2017).
 <a href="https://doi.org/10.1098/rsos.170367" target="_blank" style="text-decoration:none; color:#4da3ff;">
