@@ -56,7 +56,7 @@ hidemeta: true
 
 <div>
 <div class="cv-role">Ph.D., Psychology</div>
-<div class="cv-meta">Dissertation: "Understanding automonomous behaviours in children: An investigation of self-directed control development"</div>
+<div class="cv-meta">Dissertation: "Understanding autonomous behaviours in children: An investigation of self-directed control development"</div>
 <div class="cv-meta">Supervisors: Dr. Nicolas Chevalier & Prof. Maria Brandimonte</div>
 </div>
 <div class="cv-date">2020</div>
