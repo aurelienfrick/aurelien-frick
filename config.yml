@@ -76,8 +76,6 @@ params:
     socialIcons:
         - name: CV
           url: CV_Frick.pdf
-        - name: Email
-          url: mailto:asaf1@st-andrews.ac.uk
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=Ibkj76wAAAAJ&hl=en&oi=ao
         - name: LinkedIn
