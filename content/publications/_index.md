@@ -7,9 +7,18 @@ hidemeta: true
 <div style="font-size:0.9em; color:black; margin-bottom:10px;">
 * denotes equal contribution<br>
 Many of these papers are open access. If you experience access limitations, I’m happy to provide copies upon request.
+
 </div>
 
+
 <ol reversed style="font-size:0.85em; line-height:1.7;">
+
+<li>
+<strong>Frick, A.</strong>,Bouazzaoui, B., Mille, J., Angel, L., Borella, E., Fay, S., Ferrandez, V., Pinard, F., Vanneste, S., & Taconnat, L. (2026).
+<a href="https://doi.org/10.1080/09658211.2026.2655432" target="_blank"
+style="text-decoration:none; border:none; color:#4da3ff;">
+Relative contribution of associative memory and working memory to subjective organisation in aging</a>. <i>Memory</i>.
+</li>
 
 <li>
 <strong>Frick, A.</strong>, McEwen, E. S., & Seed, A. M. (2026).
