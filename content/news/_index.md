@@ -4,7 +4,7 @@ hidemeta: true
 ---
 
 
-<div style="display: flex; flex-direction: column; gap: 18px; font-size: 0.95rem;">
+<div style="display: flex; flex-direction: column; gap: 18px; font-size: 0.9rem;">
 
   <div style="line-height: 1.6;">
     <div>
