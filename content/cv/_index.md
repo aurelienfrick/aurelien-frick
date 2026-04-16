@@ -3,7 +3,7 @@ title: "CV"
 hidemeta: true
 ---
 
-<div style="font-size:0.85em">
+<div style="font-size:0.9em">
 
 
 
