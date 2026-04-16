@@ -3,7 +3,7 @@ title: "News 📣"
 hidemeta: true
 ---
 
-<div style="display: flex; flex-direction: column; gap: 18px; font-size: 0.9rem;">
+<div style="display: flex; flex-direction: column; gap: 18px; font-size: 1rem;">
 
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
     <strong>14/04/2026</strong>
