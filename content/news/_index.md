@@ -12,10 +12,10 @@ hidemeta: true
     </span>
   </div>
 
- <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
+<div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
   <strong>14/05/2026</strong>
   <span>
-    🎉 Huge congratulations to Wenjia Tan, a former RA, for receiving a funded PhD offer from the School of Informatics at the University of Edinburgh.
+    🎉 Huge congratulations to Wenjia Tan, a former research assistant on our social presence studies, for receiving a funded PhD offer from the School of Informatics at the University of Edinburgh.
   </span>
 </div>
 
