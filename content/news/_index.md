@@ -40,6 +40,7 @@ hidemeta: true
       With Paulo at CDS 2026
     </div>
   </div>
+  </div>
 
 </div>
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
