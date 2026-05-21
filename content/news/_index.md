@@ -12,6 +12,13 @@ hidemeta: true
     </span>
   </div>
 
+ <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
+  <strong>05/2026</strong>
+  <span>
+    🎉 Congratulations to Wenjia Tan, a former Research Assistant, for receiving a fully funded PhD offer from the School of Informatics at the University of Edinburgh. Very well-deserved!
+  </span>
+</div>
+
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
     <strong>14/04/2026</strong>
     <span>
