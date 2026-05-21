@@ -26,7 +26,7 @@ hidemeta: true
 
   <div style="display: inline-block; width: 220px; vertical-align: top; margin-right: 10px;">
     <img src="photo_montreal.jpeg"
-         style="width: 300px; height: auto; border-radius: 8px;" />
+         style="width: 320px; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
       Rue le Royer, Montréal, 12th April 2026
     </div>
@@ -34,9 +34,9 @@ hidemeta: true
 
   <div style="display: inline-block; width: 220px; vertical-align: top;">
     <img src="photos_with_Paulo_CDS.jpeg"
-         style="width: 300px; height: auto; border-radius: 8px;" />
+         style="width: 320px; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-      With Paulo at CDS 2026
+      With Paulo at CDS 2026 (credit: Jesse Niebaum)
          </div>
     </div>
 
