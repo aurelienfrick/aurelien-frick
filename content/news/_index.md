@@ -21,6 +21,12 @@ hidemeta: true
     </span>
   </div>
 
+<div>
+  <strong>09–11/04/2026</strong>
+  <span style="margin-left: 10px;">
+    📣 Poster presentation at the Cognitive Development Society meeting in Montreal.
+  </span>
+</div>
 
 <div style="margin-top: 10px; text-align: center;">
 
