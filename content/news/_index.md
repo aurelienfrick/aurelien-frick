@@ -21,7 +21,6 @@ hidemeta: true
     </span>
   </div>
 
-<div style="display: flex; justify-content: center; gap: 30px; margin-top: 0px; flex-wrap: wrap;">
 
 <div style="margin-top: 10px; text-align: center;">
 
@@ -38,11 +37,13 @@ hidemeta: true
          style="width: 220px; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
       With Paulo at CDS 2026
+         </div>
     </div>
-  </div>
+
   </div>
 
 </div>
+  
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
     <strong>09/02/2026</strong>
     <span>
