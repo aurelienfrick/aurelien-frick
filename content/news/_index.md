@@ -13,7 +13,7 @@ hidemeta: true
   </div>
 
  <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-  <strong>05/2026</strong>
+  <strong>14/05/2026</strong>
   <span>
     🎉 Huge congratulations to Wenjia Tan, a former RA, for receiving a funded PhD offer from the School of Informatics at the University of Edinburgh.
   </span>
