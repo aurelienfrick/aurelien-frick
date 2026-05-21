@@ -28,7 +28,7 @@ hidemeta: true
     <img src="photo_montreal.jpeg"
          style="width: 320px; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-      Rue le Royer, Montréal, 12th April 2026
+      Rue le Royer, Montréal
     </div>
   </div>
 
