@@ -28,6 +28,9 @@ hidemeta: true
   </span>
 </div>
 
+<div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
+
+
 <div style="margin-top: 10px; text-align: center;">
 
   <div style="display: inline-block; width: 220px; vertical-align: top; margin-right: 10px;">
