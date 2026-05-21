@@ -15,7 +15,7 @@ hidemeta: true
 <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
   <strong>14/05/2026</strong>
   <span>
-    🎉 Congratulations to Wenjia Tan, a former RA, for receiving a funded PhD offer from the School of Informatics at the University of Edinburgh.
+    🎉 Congratulations to Wenjia Tan, a former RA, for receiving a funded PhD offer from the University of Edinburgh (School of Informatics).
   </span>
 </div>
 
