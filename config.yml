@@ -30,7 +30,13 @@ menu:
 
 
 params:
-    description: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow in the School of Psychology and Neuroscience at the University of St Andrews"
+    description: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow in the School of Psychology and Neuroscience at the University of St Andrews
+
+    From October 2026, I will join the University of Bristol and Kyoto University as a Marie Skłodowska-Curie Fellow.
+    
+    I study how social environments shape executive function and cognition. Using developmental, cross-cultural, and comparative approaches, my research investigates how the presence of others influences cognitive control in children and chimpanzees. I combine experimental, observational, and qualitative methods.
+    
+    "
     author: Aurélien Frick
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
