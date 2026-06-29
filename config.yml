@@ -62,7 +62,14 @@ params:
     profileMode:
           enabled: true
           title: Aurélien Frick
-          subtitle: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow at the University of St Andrews."
+          subtitle: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow at the University of St Andrews.
+
+          From October 2026, I will join the University of Bristol and Kyoto University as a Marie Skłodowska-Curie Fellow.
+    
+          I study how social environments shape executive function and cognition. Using developmental, cross-cultural, and comparative approaches, my research investigates how the presence of others influences cognitive control in children and chimpanzees. I combine experimental, observational, and qualitative methods.
+    
+          
+          "
           imageUrl: "Photo_Website.jpg"
           imageWidth: 300
           imageHeight: 375
