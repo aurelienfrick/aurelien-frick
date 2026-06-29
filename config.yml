@@ -58,8 +58,8 @@ params:
           title: Aurélien Frick
           subtitle: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow at the University of St Andrews."
           imageUrl: "Photo_Website.jpg"
-          imageWidth: 120
-          imageHeight: 150
+          imageWidth: 300
+          imageHeight: 375
           buttons:
             - name: About
               url: about/
