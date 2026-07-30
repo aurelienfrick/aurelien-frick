@@ -5,8 +5,8 @@ hidemeta: true
 
 <div style="display: flex; flex-direction: column; gap: 18px; font-size: 1rem;">
 
-  <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>20/07</strong>
+  <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+<strong style="min-width: 70px;">20/07</strong>
     <span>
       📄 New
       <a href="https://doi.org/10.1037/neu0001102">paper</a>
