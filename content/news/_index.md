@@ -75,14 +75,14 @@ hidemeta: true
 </div>
 
   <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">09/02</strong>
+<strong style="min-width: 80px; flex-shrink: 0;">09/02/26</strong>
     <span>
       🇪🇺 Marie Skłodowska-Curie Global Postdoctoral Fellowship awarded.
     </span>
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">30/01</strong>
+<strong style="min-width: 80px; flex-shrink: 0;">30/01/26</strong>
     <span>
       🎤 Departmental talk at the University of St Andrews.
     </span>
