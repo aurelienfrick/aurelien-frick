@@ -13,12 +13,20 @@ Many of these papers are open access. If you experience access limitations, I’
 
 <ol reversed style="font-size:0.85em; line-height:1.7;">
 
+</p>
+
+<li>Servais, A., <strong>Frick, A.</strong>, Meyer, F., Bastin, C., & Delhaye, E. <a href="https://doi.org/10.1037/neu0001102" target="_blank" style="text-decoration:none; border:none; color:#4da3ff;"> Familiarity-related processes and the transentorhinal cortex volume: Insights into the cognitive functions of an early site of Alzheimer’s pathology.</a> (2026). <I>Neuropsychology.</I>
+
+</p>
+
 <li>
 <strong>Frick, A.</strong>,Bouazzaoui, B., Mille, J., Angel, L., Borella, E., Fay, S., Ferrandez, V., Pinard, F., Vanneste, S., & Taconnat, L. (2026).
 <a href="https://doi.org/10.1080/09658211.2026.2655432" target="_blank"
 style="text-decoration:none; border:none; color:#4da3ff;">
-Relative contribution of associative memory and working memory to subjective organisation in aging</a>. <i>Memory</i>.
+Relative contribution of associative memory and working memory to subjective organisation in aging</a>. <I>Memory, 34</I>(6), 647-655.
 </li>
+
+</p>
 
 <li>
 <strong>Frick, A.</strong>, McEwen, E. S., & Seed, A. M. (2026).
