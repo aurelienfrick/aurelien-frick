@@ -14,29 +14,29 @@ hidemeta: true
       </span>
     </div>
 
-  <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>17/07</strong>
+  <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+<strong style="min-width: 80px; flex-shrink: 0;">17/07</strong>
     <span>
       🎉 Delighted to have been nominated for the Watson-Arnott Award (Outstanding Early Career Researcher) and very grateful to my colleagues at the School of Psychology and Neuroscience, University of St Andrews, for their support and recognition.
       </span>
     </div>
 
-  <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>21/05</strong>
+  <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+<strong style="min-width: 80px; flex-shrink: 0;">21/05</strong>
     <span>
       🎤 Seminar talk at the University of Portsmouth (Centre for Research on Interaction, Development and Diversity).
     </span>
   </div>
   
-<div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-  <strong>14/05</strong>
+<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+<strong style="min-width: 80px; flex-shrink: 0;">14/05</strong>
   <span>
     🎉 Congratulations to Wenjia Tan, a former RA, for receiving a funded PhD offer from the University of Edinburgh (Informatics).
   </span>
 </div>
   
-  <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>14/04/2026</strong>
+  <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+<strong style="min-width: 80px; flex-shrink: 0;">14/04/2026</strong>
     <span>
       📄 New
       <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2026.2655432">paper</a>
