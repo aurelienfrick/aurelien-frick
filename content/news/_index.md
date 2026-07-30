@@ -72,8 +72,6 @@ hidemeta: true
          </div>
     </div>
 
-  </div>
-
 </div>
 
   <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
