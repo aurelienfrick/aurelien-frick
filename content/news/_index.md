@@ -6,7 +6,7 @@ hidemeta: true
 <div style="display: flex; flex-direction: column; gap: 18px; font-size: 1rem;">
 
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>20/07/2026</strong>
+    <strong>20/07</strong>
     <span>
       📄 New
       <a href="https://doi.org/10.1037/neu0001102">paper</a>
@@ -14,36 +14,26 @@ hidemeta: true
       </span>
     </div>
 
- </p>
-
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>17/07/2026</strong>
+    <strong>17/07</strong>
     <span>
       🎉 Delighted to have been nominated for the Watson-Arnott Award (Outstanding Early Career Researcher) and very grateful to my colleagues at the School of Psychology and Neuroscience, University of St Andrews, for their support and recognition.
       </span>
     </div>
 
-
-
- </p>
-
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>21/05/2026</strong>
+    <strong>21/05</strong>
     <span>
       🎤 Seminar talk at the University of Portsmouth (Centre for Research on Interaction, Development and Diversity).
     </span>
   </div>
-
-  </p>
   
 <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-  <strong>14/05/2026</strong>
+  <strong>14/05</strong>
   <span>
     🎉 Congratulations to Wenjia Tan, a former RA, for receiving a funded PhD offer from the University of Edinburgh (Informatics).
   </span>
 </div>
-
-  </p>
   
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
     <strong>14/04/2026</strong>
@@ -53,18 +43,13 @@ hidemeta: true
       out in <i>Memory</i> with members of the CeRCA team (University of Tours) and Prof. Erika Borella (University of Padova).
     </span>
   </div>
-
-  </p>
-
   
 <div>
-  <strong>09–11/04/2026</strong>
+  <strong>09–11/04</strong>
   <span style="margin-left: 10px;">
     📣 Poster presentation at the Cognitive Development Society meeting in Montreal.
   </span>
 </div>
-
-  </p>
 
 <div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
 
@@ -91,19 +76,15 @@ hidemeta: true
 
 </div>
 
-  </p>
-  
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>09/02/2026</strong>
+    <strong>09/02</strong>
     <span>
       🇪🇺 Marie Skłodowska-Curie Global Postdoctoral Fellowship awarded.
     </span>
   </div>
 
-  </p>
-
   <div style="display: flex; align-items: baseline; gap: 10px; line-height: 1.6;">
-    <strong>30/01/2026</strong>
+    <strong>30/01</strong>
     <span>
       🎤 Departmental talk at the University of St Andrews.
     </span>
