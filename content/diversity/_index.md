@@ -14,7 +14,9 @@ hidemeta: true
 
 I am a native French-speaking white man who grew up in a working-class household. My identity affords me certain privileges that others do not have, while also shaping some of the challenges I have experienced.
 
-<b> Acknowledging Privileges </b>
+</p>
+
+<p style="text-align:center;"><b> Acknowledging Privileges </b></p>
 
 First, as a man, I am statistically more likely than women to remain in academia as seniority increases, to serve as lead or senior author on research papers, and to hold editorial roles in psychology journals. I also do not have children, which may further increase my likelihood of pursuing and sustaining an academic career compared to colleagues who are balancing parenthood. Second, because of my ethnic background, I do not experience racism. Growing up in a culturally diverse suburban area in France, I witnessed how being white afforded me advantages that many of my childhood friends, who were and are of North African or Asian backgrounds, did not have. I still vividly remember several of my friends being asked by police to show their identification while we were waiting outside a McDonald’s, while one officer explicitly told me that this would not be necessary for me. I also saw how few of my childhood friends obtained the Diplôme National du Brevet (the French lower-secondary school diploma), and even fewer, only one to my recollection, completed the Baccalauréat (roughly equivalent to A-levels in the UK). As I progressed through the French education system and later into university, I therefore observed my educational environment becoming progressively whiter and wealthier. Finally, I hold both French and Swiss citizenship. This dual citizenship constitutes another significant privilege: it carries none of the stigma often associated with the dual nationalities held by some of my childhood friends. It also meant that I had never had to worry about immigration status or deportation until moving to the UK in the post-Brexit context, where remaining in the country now depends on securing visa sponsorship.
 
