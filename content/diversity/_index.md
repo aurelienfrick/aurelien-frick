@@ -9,11 +9,11 @@ hidemeta: true
 
 <p style="text-align:center;"><b>Education, Diversity and Inclusion Statement</b></p>
 
-<p class="text-muted" style="font-size:0.9em;">
+<p class="text-muted" style="font-size:1em;">
 5th August 2026, St Andrews
 </p>
 
-<p class="text-muted" style="font-size:0.9em;">
+<p class="text-muted" style="font-size:1em;">
 I am a native French-speaking white man who grew up in a working-class household. My identity affords me certain privileges that others do not have, while also shaping some of the challenges I have experienced.
 </p>
 
