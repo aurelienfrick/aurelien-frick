@@ -79,18 +79,18 @@ I am also mindful of the importance of making implicit academic expectations exp
 
 <hr style="margin:30px 0; border:none; border-top:1px solid #ddd;">
 
-<p class="text-muted" style="font-size:0.85em; line-height:1.5;">
+<p class="text-muted" style="font-size:0.95em; line-height:1.5;">
 This statement is my own, but its structure was inspired by the diversity statement written by <a href="https://www.ashleyjthomas.com/diversity-statement" target="_blank">Dr Ashley J. Thomas</a>.
 I also recommend the book <em><a href="https://uk.sagepub.com/en-gb/eur/colonised-minds/book279671" target="_blank">Colonised Minds: Narratives That Shape Psychology</a></em> by Akira R. O'Connor and Erin Robbins, which examines how the field of psychology has been shaped by historical power structures and explores how colonial legacies continue to influence research and teaching today.
 </p>
 
-<p style="font-size:0.85em; font-weight:bold;">References</p>
+<p style="font-size:0.95em; font-weight:bold;">References</p>
 
-<p class="text-muted" style="font-size:0.85em; line-height:1.5;">
+<p class="text-muted" style="font-size:0.95em; line-height:1.5;">
 Henrich, J., Heine, S. J., &amp; Norenzayan, A. (2010). The weirdest people in the world? Behavioral and Brain Sciences, 33(2–3), 61–83.
 </p>
 
-<p class="text-muted" style="font-size:0.85em; line-height:1.5;">
+<p class="text-muted" style="font-size:0.95em; line-height:1.5;">
 Doebel, S., &amp; Frank, M. C. (2024). Broadening convenience samples to advance theoretical progress and avoid bias in developmental science. Journal of Cognition and Development, 25(2), 261-272.
 </p>
 
