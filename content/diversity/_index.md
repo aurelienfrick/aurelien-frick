@@ -3,7 +3,7 @@ ttitle: "Diversity"
 hidemeta: true
 ---
 
-<div style="font-size:0.85em">
+<div style="font-size:0.85em"text-align:justify; hyphens:auto;">
 <div style="display:flex; align-items:flex-start; gap:30px; flex-wrap:wrap;">
 <div style="flex:1; min-width:300px;">
 <p style="text-align:center;"><b>Education, Diversity and Inclusion Statement</b></p>
