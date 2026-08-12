@@ -5,7 +5,7 @@ hidemeta: true
 
 <div style="font-size:0.9em">
 
-<p>My full CV can be found <a href="CV_Aurelien_Frick.pdf" target="_blank">here</a>.</p>
+<p>My full CV can be found <a href="CV_Frick.pdf" target="_blank">here</a>.</p>
 
 <p>To restore balance in the universe, my alternative CV (or CV of Failures) can be found <a href="CV_Failures_Aurelien_Frick.pdf" target="_blank">here</a>.</p>
 
