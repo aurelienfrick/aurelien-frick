@@ -5,7 +5,7 @@ hidemeta: true
 
 <div style="font-size:0.9em">
 
-
+<p>My full CV can be found <a href="CV_Aurelien_Frick.pdf" target="_blank">here</a>.</p>
 
 ## Academic Employment
 
