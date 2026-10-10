@@ -61,10 +61,10 @@ hidemeta: true
     <img src="Work_StAndrews.jpeg"
          style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-    Finally 
+       Jackie putting me to work in St Andrews (credit: Jackie Watson)
+
     </div>
   </div>
-  Jackie putting me to work in St Andrews (credit: Jackie Watson)
 </div>
 
 
