@@ -75,8 +75,8 @@ params:
           <i> Last updated: 10/10/26 </i>
           "
           imageUrl: "Photo_Website.jpg"
-          imageWidth: 240
-          imageHeight: 300
+          imageWidth: 280
+          imageHeight: 320
           buttons:
             - name: About
               url: about/
