@@ -53,7 +53,7 @@ hidemeta: true
     <img src="Living_Links.jpeg"
          style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-    Group photo at Living Links (Edinburgh Zoo) for Emma's leaving lunch (credit: Kate Grounds)
+    Group photo at Living Links (Edinburgh Zoo) for Emma's leaving lunch (©Kate Grounds)
     </div>
   </div>
 
@@ -61,7 +61,7 @@ hidemeta: true
     <img src="Work_StAndrews.jpeg"
          style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-       Jackie putting me to work in St Andrews (credit: Jackie Watson)
+       Jackie putting me to work in St Andrews (©Jackie Watson)
 
     </div>
   </div>
@@ -130,7 +130,7 @@ hidemeta: true
     <img src="photos_with_Paulo_CDS.jpeg"
          style="width: 320px; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-      With Paulo Laurence at CDS 2026 (credit: Jesse Niebaum)
+      With Paulo Laurence at CDS 2026 (©Jesse Niebaum)
          </div>
     </div>
 
