@@ -76,7 +76,7 @@ params:
           "
           imageUrl: "Photo_Website.jpg"
           imageWidth: 280
-          imageHeight: 300
+          imageHeight: 280
           buttons:
             - name: About
               url: about/
