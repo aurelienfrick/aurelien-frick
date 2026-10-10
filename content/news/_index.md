@@ -6,6 +6,44 @@ hidemeta: true
 <div style="display: flex; flex-direction: column; gap: 18px; font-size: 1rem;">
 
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+  <strong style="min-width: 80px; flex-shrink: 0;">01/10/26</strong>
+  <span>
+    🇪🇺 Excited to begin my Marie Skłodowska-Curie Global Postdoctoral Fellowship! I'll be spending the next two years at Kyoto University (Japan), working with Prof. Satoru Saito, before returning to the University of Bristol (UK) for the final year with Prof. Chris Jarrold.
+  </span>
+</div>
+
+<div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
+
+
+<div style="margin-top: 10px; text-align: center;">
+
+  <div style="display: inline-block; width: 220px; vertical-align: top; margin-right: 10px;">
+    <img src="Kyoto_Uni.jpeg"
+         style="width: 320px; height: auto; border-radius: 8px;" />
+    <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
+      Clock Tower, Kyoto University
+    </div>
+  </div>
+
+  <div style="display: inline-block; width: 220px; vertical-align: top;">
+    <img src="Black_Kite_Kyoto.jpeg"
+         style="width: 320px; height: auto; border-radius: 8px;" />
+    <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
+      Black Kite in Okazaki, Kyoto
+         </div>
+    </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+  <strong style="min-width: 80px; flex-shrink: 0;">31/08/26</strong>
+  <span>
+    🎓 My Leverhulme Early Career Fellowship at the University of St Andrews has come to an end after three wonderful years. I'm very grateful to my colleagues and collaborators, especially Prof. Amanda Seed, for their support and for making this such a rewarding experience.
+  </span>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">20/07/26</strong>
     <span>
       📄 New
