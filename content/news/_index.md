@@ -33,7 +33,7 @@ hidemeta: true
       Black Kite in Okazaki, Kyoto
     </div>
   </div>
-
+</div>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
@@ -65,7 +65,7 @@ hidemeta: true
 
     </div>
   </div>
-
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">20/07/26</strong>
