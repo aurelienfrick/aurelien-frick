@@ -126,7 +126,7 @@ On the way down from Ben Ledi (©Helen Wright)
 
 <p class="text-muted" style="font-size:0.9em; text-align:justify; hyphens:auto;">
 
-I am currently a Marie Skłodowska-Curie Fellow in the School of Psychology and Neuroscience at the University of Bristol and in the Graduate School of Education at Kyoto University. I'm currently based at Kyoto University where I study the effects of experimenter presence on children’s executive function from a developmental and cross-cultural perspective.
+I am currently a Marie Skłodowska-Curie Fellow in the School of Psychology and Neuroscience at the University of Bristol and in the Graduate School of Education at Kyoto University. I'm currently based at Kyoto University where I study the effects of the social context on children’s executive function from a developmental and cross-cultural perspective.
 
 Prior to this role, I was a Leverhulme Early Career Research Fellow in the School of Psychology and Neuroscience at the University of Andrews.
 </div>
