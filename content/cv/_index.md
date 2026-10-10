@@ -185,10 +185,6 @@ hidemeta: true
 <div class="cv-role">Dr Kaichi Yanaoka (Osaka Kyoiku University)</div>
 <div class="cv-role">Dr. Clément Belletier (University of Clermont-Auvergne)</div>
 <div class="cv-role">Dr. Nicolas Chevalier (University of Edinburgh)</div>
-<div class="cv-role">Prof. Laurence Taconnat (University of Tours)</div>
-<div class="cv-role">Dr. Badiâa Bouazzaoui (University of Tours)</div>
-<div class="cv-role">Prof. Thibaud Gruber (University of Geneva)</div>
-<div class="cv-role">Dr. Solange Denervaud (EPFL)</div>
 
 
 
