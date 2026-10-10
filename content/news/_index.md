@@ -62,10 +62,8 @@ hidemeta: true
          style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
        Jackie putting me to work in St Andrews (©Jackie Watson)
-
     </div>
   </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">20/07/26</strong>
