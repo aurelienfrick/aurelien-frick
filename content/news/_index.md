@@ -43,6 +43,30 @@ hidemeta: true
   </span>
 </div>
 
+<div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
+
+
+
+<div style="margin-top: 10px; margin-bottom: 18px; text-align: center;">
+
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top; margin-right: 10px;">
+    <img src="Living_Links.jpeg"
+         style="width: 100%; height: auto; border-radius: 8px;" />
+    <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
+    Group photo at Living Links (Edinburgh Zoo) for Emma's leaving lunch (credit: Kate Grounds)
+    </div>
+  </div>
+
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top;">
+    <img src="Work_StAndrews.jpeg"
+         style="width: 100%; height: auto; border-radius: 8px;" />
+    <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
+    Finally 
+    </div>
+  </div>
+  Jackie putting me to work in St Andrews (credit: Jackie Watson)
+</div>
+
 
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">20/07/26</strong>
@@ -107,7 +131,7 @@ hidemeta: true
     <img src="photos_with_Paulo_CDS.jpeg"
          style="width: 320px; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-      With Paulo at CDS 2026 (credit: Jesse Niebaum)
+      With Paulo Laurence at CDS 2026 (credit: Jesse Niebaum)
          </div>
     </div>
 
