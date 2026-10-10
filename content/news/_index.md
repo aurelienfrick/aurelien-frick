@@ -15,23 +15,24 @@ hidemeta: true
 <div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
 
 
-<div style="margin-top: 10px; text-align: center;">
 
-  <div style="display: inline-block; width: 220px; vertical-align: top; margin-right: 10px;">
+<div style="margin-top: 10px; margin-bottom: 18px; text-align: center;">
+
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top; margin-right: 10px;">
     <img src="Kyoto_Uni.jpeg"
-         style="width: 320px; height: auto; border-radius: 8px;" />
+         style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
       Clock Tower, Kyoto University
     </div>
   </div>
 
-  <div style="display: inline-block; width: 220px; vertical-align: top;">
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top;">
     <img src="Black_Kite_Kyoto.jpeg"
-         style="width: 320px; height: auto; border-radius: 8px;" />
+         style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
       Black Kite in Okazaki, Kyoto
-         </div>
     </div>
+  </div>
 
 </div>
 
