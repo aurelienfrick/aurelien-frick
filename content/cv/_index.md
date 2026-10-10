@@ -14,6 +14,24 @@ hidemeta: true
 
 <div class="cv-block">
 
+<div class="cv-inst">University of Bristol, UK & Kyoto University, Japan</div>
+
+<div class="cv-rows">
+
+<div class="cv-row">
+<div>
+<div class="cv-role"> Marie Skłodowska-Curie Fellow</div>
+<div class="cv-meta">School of Psychology & Neuroscience & Graduate School of Education</div>
+<div class="cv-meta">Mentors: Prof. Chris Jarrold and Prof. Satoru Saito</div>
+</div>
+<div class="cv-date">2026 – present</div>
+</div>
+
+</div>
+</div>
+
+<div class="cv-block">
+
 <div class="cv-inst">University of St Andrews, UK</div>
 
 <div class="cv-rows">
@@ -24,7 +42,7 @@ hidemeta: true
 <div class="cv-meta">School of Psychology & Neuroscience</div>
 <div class="cv-meta">Mentor: Prof. Amanda Seed</div>
 </div>
-<div class="cv-date">2023 – present</div>
+<div class="cv-date">2023 – 2026</div>
 </div>
 
 </div>
