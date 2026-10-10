@@ -30,13 +30,11 @@ menu:
 
 
 params:
-    description: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow in the School of Psychology and Neuroscience at the University of St Andrews. <br><br>
-
-    From October 2026, I will join the University of Bristol and Kyoto University as a Marie Skłodowska-Curie Fellow. <br><br>
+    description: "Welcome to my website! I'm a Marie Skłodowska-Curie Fellow in the School of Psychology and Neuroscience at the University of Bristol and in the Graduate School of Education at Kyoto University. <br><br>
     
     I study how social environments shape executive function and cognition. Using developmental, cross-cultural, and comparative approaches, my research investigates how the presence of others influences cognitive control in children and chimpanzees. I combine experimental, observational, and qualitative methods. <br><br>
 
-    <i> Last updated: 12/08/26 </i>
+    <i> Last updated: 10/10/26 </i>
 
 
     
@@ -66,13 +64,11 @@ params:
     profileMode:
           enabled: true
           title: Aurélien Frick
-          subtitle: "Welcome to my website! I'm a Leverhulme Early Career Research Fellow at the University of St Andrews. <br><br>
-
-          From October 2026, I will join the University of Bristol and Kyoto University as a Marie Skłodowska-Curie Fellow. <br><br>
-    
+          subtitle: "Welcome to my website! Welcome to my website! I'm a Marie Skłodowska-Curie Fellow in the School of Psychology and Neuroscience at the University of Bristol and in the Graduate School of Education at Kyoto University. <br><br>    
+          
           I study how social environments shape executive function and cognition. Using developmental, cross-cultural, and comparative approaches, my research investigates how the presence of others influences cognitive control in children and chimpanzees. I combine experimental, observational, and qualitative methods. <br><br>
     
-          <i> Last updated: 12/08/26 </i>
+          <i> Last updated: 10/10/26 </i>
           "
           imageUrl: "Photo_Website.jpg"
           imageWidth: 300
