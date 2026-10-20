@@ -83,30 +83,29 @@ hidemeta: true
       </span>
 </div>
 
-
-
-  <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">21/05/26</strong>
-    <span>
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">21/05/26</strong>
+   <span>
       🎤 Seminar talk at the University of Portsmouth (Centre for Research on Interaction, Development and Diversity).
     </span>
-  </div>
-  
-<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">14/05/26</strong>
-  <span>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">14/05/26</strong>
+   <span>
     🎉 Congratulations to Wenjia Tan, a former RA, for receiving a funded PhD offer from the University of Edinburgh (Informatics).
   </span>
 </div>
   
-<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">14/04/26</strong>
-    <span>
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">14/04/26</strong>
+   <span>
       📄 New
       <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2026.2655432">paper</a>
       out in <i>Memory</i> with members of the CeRCA team (University of Tours) and Prof. Erika Borella (University of Padova).
     </span>
-  </div>
+</div>
+  
   
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">09–11/04/26</strong>
