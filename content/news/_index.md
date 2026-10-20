@@ -3,8 +3,8 @@ title: "News 📣"
 hidemeta: true
 ---
 
-<div style="display: flex; flex-direction: column; gap: 18px; font-size: 1rem;">
-
+<div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; line-height: 1.6;">
+  
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
   <strong style="min-width: 80px; flex-shrink: 0;">19/10/26</strong>
   <span>
