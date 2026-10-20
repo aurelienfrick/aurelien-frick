@@ -6,6 +6,14 @@ hidemeta: true
 <div style="display: flex; flex-direction: column; gap: 18px; font-size: 1rem;">
 
 <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
+  <strong style="min-width: 80px; flex-shrink: 0;">19/10/26</strong>
+  <span>
+    🎤 Lab talk at Saito lab (Kyoto University).
+  </span>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
   <strong style="min-width: 80px; flex-shrink: 0;">01/10/26</strong>
   <span>
     🇪🇺 Excited to begin my Marie Skłodowska-Curie Global Postdoctoral Fellowship! I'll be spending the next two years at Kyoto University (Japan), working with Prof. Satoru Saito, before returning to the University of Bristol (UK) for the final year with Prof. Chris Jarrold.
