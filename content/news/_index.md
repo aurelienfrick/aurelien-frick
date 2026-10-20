@@ -76,12 +76,14 @@ hidemeta: true
 </div>
 
 
-  <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">17/07/26</strong>
-    <span>
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">17/07/26</strong>
+  <span>
       🎉 Delighted to have been nominated for the Watson-Arnott Award (Outstanding Early Career Researcher) and very grateful to my colleagues at the School of Psychology and Neuroscience, University of St Andrews, for their support and recognition.
       </span>
-    </div>
+</div>
+
+
 
   <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">21/05/26</strong>
