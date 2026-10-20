@@ -5,19 +5,15 @@ hidemeta: true
 
 <div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; line-height: 1.6;">
   
-<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-  <strong style="min-width: 80px; flex-shrink: 0;">19/10/26</strong>
-  <span>
-    🎤 Lab talk at Saito lab (Kyoto University).
-  </span>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">19/10/26</strong>
+  <span>🎤 Lab talk at Saito lab (Kyoto University).</span>
 </div>
 
-
-<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-  <strong style="min-width: 80px; flex-shrink: 0;">01/10/26</strong>
-  <span>
-    🇪🇺 Excited to begin my Marie Skłodowska-Curie Global Postdoctoral Fellowship! I'll be spending the next two years at Kyoto University (Japan), working with Prof. Satoru Saito, before returning to the University of Bristol (UK) for the final year with Prof. Chris Jarrold.
-  </span>
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">01/10/26</strong>
+  <span>🇪🇺 Excited to begin my Marie Skłodowska-Curie Global Postdoctoral Fellowship! I'll be spending the next two years at Kyoto University (Japan), working with Prof. Satoru Saito, before returning to the University of Bristol (UK) for the final year with Prof. Chris Jarrold.</span>
 </div>
 
 <div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
@@ -41,19 +37,16 @@ hidemeta: true
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-  <strong style="min-width: 80px; flex-shrink: 0;">31/08/26</strong>
-  <span>
-    🎓 My Leverhulme Early Career Fellowship at the University of St Andrews has come to an end after three wonderful years. I'm very grateful to my colleagues and collaborators, especially Prof. Amanda Seed, for their support and for making this such a rewarding experience.
-  </span>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">31/08/26</strong>
+  <span>🎓 My Leverhulme Early Career Fellowship at the University of St Andrews has come to an end after three wonderful years. I'm very grateful to my colleagues and collaborators, especially Prof. Amanda Seed, for their support and for making this such a rewarding experience.</span>
 </div>
 
-<div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
 
 
-
-<div style="margin-top: 10px; margin-bottom: 18px; text-align: center;">
-
+<div style="margin: 0; text-align: center;">
+  
   <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top; margin-right: 10px;">
     <img src="Living_Links.jpeg"
          style="width: 100%; height: auto; border-radius: 8px;" />
@@ -70,14 +63,18 @@ hidemeta: true
     </div>
   </div>
   </div>
-<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">20/07/26</strong>
-    <span>
+
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">20/07/26</strong>
+  <span>
       📄 New
       <a href="https://doi.org/10.1037/neu0001102">paper</a>
       out in <I>Neuropsychology</i> from my previous postdoctoral position at the GIGA-CRC Imaging Human (Liège, Belgium) with Anaïs Servais (lead author), François Meyer, Christine Bastin (Université of Liège) and Emma Delhaye (University of Lisboa).
       </span>
-    </div>
+</div>
+
 
   <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">17/07/26</strong>
