@@ -108,35 +108,32 @@ hidemeta: true
 </div>
   
   
-<div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
-<strong style="min-width: 80px; flex-shrink: 0;">09–11/04/26</strong>
-  <span style="margin-left: 10px;">
-    📣 Poster presentation at the Cognitive Development Society meeting in Montreal.
-  </span>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">09–11/04/26</strong>
+  <span>📣 Poster presentation at the Cognitive Development Society meeting in Montreal.</span>
 </div>
 
-<div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
+<div style="margin: 0; padding: 0; text-align: center;">
 
-
-<div style="margin-top: 10px; text-align: center;">
-
-  <div style="display: inline-block; width: 220px; vertical-align: top; margin-right: 10px;">
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top; margin-right: 10px;">
     <img src="photo_montreal.jpeg"
-         style="width: 320px; height: auto; border-radius: 8px;" />
+         style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
       Rue le Royer, Montréal
     </div>
   </div>
 
-  <div style="display: inline-block; width: 220px; vertical-align: top;">
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top;">
     <img src="photos_with_Paulo_CDS.jpeg"
-         style="width: 320px; height: auto; border-radius: 8px;" />
+         style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
       With Paulo Laurence at CDS 2026 (©Jesse Niebaum)
-         </div>
     </div>
+  </div>
 
 </div>
+
 
   <div style="display: flex; align-items: flex-start; gap: 15px; line-height: 1.6;">
 <strong style="min-width: 80px; flex-shrink: 0;">09/02/26</strong>
