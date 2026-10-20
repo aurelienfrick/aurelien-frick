@@ -11,14 +11,13 @@ hidemeta: true
   <span>🎤 Lab talk at Saito lab (Kyoto University).</span>
 </div>
 
+
 <div style="display: flex; align-items: flex-start; gap: 15px;">
   <strong style="min-width: 110px; flex-shrink: 0;">01/10/26</strong>
   <span>🇪🇺 Excited to begin my Marie Skłodowska-Curie Global Postdoctoral Fellowship! I'll be spending the next two years at Kyoto University (Japan), working with Prof. Satoru Saito, before returning to the University of Bristol (UK) for the final year with Prof. Chris Jarrold.</span>
 </div>
 
-<div style="margin-top: -6px; margin-bottom: 18px; line-height: 1.6;">
-
-<div style="margin-top: 10px; margin-bottom: 18px; text-align: center;">
+<div style="margin: 0; padding: 0; text-align: center;">
 
   <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top; margin-right: 10px;">
     <img src="Kyoto_Uni.jpeg"
@@ -35,7 +34,9 @@ hidemeta: true
       Black Kite in Okazaki, Kyoto
     </div>
   </div>
+
 </div>
+
 
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
