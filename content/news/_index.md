@@ -4,7 +4,19 @@ hidemeta: true
 ---
 
 <div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; line-height: 1.6;">
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">29/10/26</strong>
+  <span> 🎉 That's a wrap! My Leverhulme Early Career Fellowship (2023–2026) is officially complete, with the final report accepted by the Leverhulme Trust. Again, so grateful three fantastic years of research at the University of St Andrews.</span>
+</div>
+
+
   
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">28/10/26</strong>
+  <span>🎤 Lab talk (online) at the Developmental Lab Group (University of Bristol).</span>
+</div>
+
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
   <strong style="min-width: 110px; flex-shrink: 0;">19/10/26</strong>
