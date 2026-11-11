@@ -15,7 +15,15 @@ Many of these papers are open access. If you experience access limitations, I’
 
 </p>
 
-<li>Servais, A., <strong>Frick, A.</strong>, Meyer, F., Bastin, C., & Delhaye, E. <a href="https://doi.org/10.1037/neu0001102" target="_blank" style="text-decoration:none; border:none; color:#4da3ff;"> Familiarity-related processes and the transentorhinal cortex volume: Insights into the cognitive functions of an early site of Alzheimer’s pathology.</a> (2026). <I>Neuropsychology.</I>
+<li><strong>Frick, A.</strong>, Jarrold, C., Seed, A. M. <a href="https://doi.org/10.1093/chidev/aacag200" target="_blank" style="text-decoration:none; border:none; color:#4da3ff;"> Beyond social facilitation and inhibition: Experimenter presence regulates executive function engagement in children.</a> (2026). <I>Child Development</I>, aacag200.
+
+</p>
+
+</p>
+
+<li>Servais, A., <strong>Frick, A.</strong>, Meyer, F., Bastin, C., & Delhaye, E. <a href="https://doi.org/10.1037/neu0001102" target="_blank" style="text-decoration:none; border:none; color:#4da3ff;"> Familiarity-related processes and the transentorhinal cortex volume: Insights into the cognitive functions of an early site of Alzheimer’s pathology.</a> (2026). <I>Neuropsychology.
+40</I>(6), 593–617.
+
 
 </p>
 
