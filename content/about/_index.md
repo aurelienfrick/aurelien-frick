@@ -136,6 +136,10 @@ Prior to this role, I was a Leverhulme Early Career Research Fellow in the Schoo
 
 ##### SELECTED PUBLICATIONS
 
+
+
+<strong>Frick, A.</strong>, Jarrold, C., Seed, A. M. <a href="https://doi.org/10.1093/chidev/aacag200" target="_blank" style="text-decoration:none; border:none; color:#4da3ff;"> Beyond social facilitation and inhibition: Experimenter presence regulates executive function engagement in children.</a> (2026). <I>Child Development</I>, aacag200.
+  
 <strong>Frick, A.</strong>, McEwen, E. S., & Seed, A. M. (2026).
 <a href="https://doi.org/10.1007/s10071-026" target="_blank" style="text-decoration:none; color:#4da3ff;">
 Chimpanzees’ working memory is not affected by the presence and activity of zoo visitors
@@ -150,10 +154,5 @@ You are here! Rethinking children’s executive function in the presence of othe
 <a href="https://doi.org/10.1080/15248372.2022.2160720" target="_blank" style="text-decoration:none; color:#4da3ff;">
 A first theoretical model of self-directed cognitive control development
 </a>. <i>Journal of Cognition and Development, 24</i>(2), 191–204.<br> 
-
-<strong>Frick, A.</strong>, Clément, F., & Gruber, T. (2017).
-<a href="https://doi.org/10.1098/rsos.170367" target="_blank" style="text-decoration:none; color:#4da3ff;">
-Evidence for a sex effect during overimitation: Boys copy irrelevant modelled actions more than girls across cultures
-</a>. <i>Royal Society Open Science, 4</i>(12), 170367.
 
 </div>
