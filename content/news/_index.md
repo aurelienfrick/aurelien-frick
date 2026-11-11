@@ -6,6 +6,33 @@ hidemeta: true
 <div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; line-height: 1.6;">
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">09/11/26</strong>
+  <span>
+      🎉 Welcome Party with Satoru Saito's Lab in Kyoto - what a lovely evening!
+      </span>
+</div>
+
+<div style="margin: 0; padding: 0; text-align: center;">
+
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top; margin-right: 10px;">
+    <img src="Welcome_Party.jpeg"
+         style="width: 100%; height: auto; border-radius: 8px;" />
+    <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
+      
+    </div>
+  </div>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">03/11/26</strong>
+  <span>
+      📄 New
+      <a href="https://doi.org/10.1093/chidev/aacag200">paper</a>
+      out in <I>Child Development</i> from my Leverhulme Early Career Fellowship at the University of St Andrews with Amanda Seed (St Andrews) and Chris Jarrold (Bristol). 
+      </span>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
   <strong style="min-width: 110px; flex-shrink: 0;">29/10/26</strong>
   <span> 🎉 That's a wrap! My Leverhulme Early Career Fellowship (2023–2026) is officially complete, with the final report accepted by the Leverhulme Trust. Again, so grateful three fantastic years of research at the University of St Andrews.</span>
 </div>
