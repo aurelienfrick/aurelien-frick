@@ -6,8 +6,8 @@ hidemeta: true
 <div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; line-height: 1.6;">
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-  <strong style="min-width: 110px; flex-shrink: 0;">01/10/26</strong>
-  <span>🎉 Welcome Party at the Saito Lab in Kyoto.</span>
+  <strong style="min-width: 110px; flex-shrink: 0;">09/11/26</strong>
+  <span>🎉 Welcome Party at the Saito Lab in Kyoto around Sukiyaki.</span>
 </div>
 
 <div style="margin: 0; padding: 0; text-align: center;">
@@ -24,7 +24,7 @@ hidemeta: true
     <img src="Welcome_Party_2.jpeg"
          style="width: 100%; height: auto; border-radius: 8px;" />
     <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
-      and after dinner!
+      and after dinner - all satisfied!
     </div>
   </div>
 
