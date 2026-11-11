@@ -6,6 +6,32 @@ hidemeta: true
 <div style="display: flex; flex-direction: column; gap: 12px; font-size: 1rem; line-height: 1.6;">
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
+  <strong style="min-width: 110px; flex-shrink: 0;">01/10/26</strong>
+  <span>🎉 Welcome Party at the Saito Lab in Kyoto.</span>
+</div>
+
+<div style="margin: 0; padding: 0; text-align: center;">
+
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top; margin-right: 10px;">
+    <img src="Welcome_Party_1.jpeg"
+         style="width: 100%; height: auto; border-radius: 8px;" />
+    <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
+      During dinner...
+    </div>
+  </div>
+
+  <div style="display: inline-block; width: 320px; max-width: 45%; vertical-align: top;">
+    <img src="Welcome_Party_2.jpeg"
+         style="width: 100%; height: auto; border-radius: 8px;" />
+    <div style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 6px;">
+      and after dinner!
+    </div>
+  </div>
+
+</div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
   <strong style="min-width: 110px; flex-shrink: 0;">03/11/26</strong>
   <span>
       📄 New
